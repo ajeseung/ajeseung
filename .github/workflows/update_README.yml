@@ -1,0 +1,29 @@
+name: Update GitHub Stats in README
+
+on:
+  push:
+    branches:
+      - main  # 업데이트를 감지할 브랜치 (주로 'main' 또는 'master')
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 저장소 클론
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Readme Stats 업데이트 (API 호출로 README 갱신)
+      - name: Update README with GitHub Stats
+        run: |
+          curl -o README.md "https://github-readme-stats.vercel.app/api?username=ajeseung&show_icons=true&theme=radical"
+      
+      # 3. 변경된 내용 커밋 및 푸시
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with new stats"
+          git push
