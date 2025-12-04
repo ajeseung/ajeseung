@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-[![SeungIl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeseung&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeseung&layout=compact)](https://github.com/YOUR_USERNAME/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ajeseung)](https://git.io/streak-stats)
+[![SeungIl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeseung&show_icons=true&theme=radical)](https://github.com/ajeseung/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeseung&layout=compact)](https://github.com/ajeseung/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ajeseung)](https://git.io/streak-stats)
 
 
 <!--
