@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 
-[![SeungIl's GitHub stats](https://github-readme-stats-inky-three-74.vercel.app/api?username=ajeseung&show_icons=true&theme=radical)]()
-[![Top Langs](https://github-readme-stats-inky-three-74.vercel.app/api/top-langs/?username=ajeseung&layout=compact)]()
+![SeungIl's GitHub stats](https://github-readme-stats-inky-three-74.vercel.app/api?username=ajeseung&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-inky-three-74.vercel.app/api/top-langs/?username=ajeseung&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=ajeseung)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ajeseung)]()
 
 <!--
 **ajeseung/ajeseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
